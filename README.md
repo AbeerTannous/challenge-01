@@ -1,4 +1,4 @@
-# challenge-01
+# code-refactor
 
 ## purpose
 Refactor the given code to meet acssecability standards .
